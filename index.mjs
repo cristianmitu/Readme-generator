@@ -86,7 +86,7 @@ ${response.description}
   * [How to contribute](#Contribute)
   * [Application Tests](#Tests)
   * [Questions](#Questions)
-  * [Link to deployed application](##Deployed-application)
+  * [Link to deployed application](#Deployed-application)
   * [Screenshots of deployed application](#Screenshots)
 
 ## Installation
@@ -116,8 +116,10 @@ ${response.description}
 
 ## Deployed application
 
+  * [GitHub repo link](https://github.com/cristianmitu/Readme-generator)
 
 ## Screenshots
+  * [Running app](./assets/app_video.webm)
 `;
 
 console.log(response);
