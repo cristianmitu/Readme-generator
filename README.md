@@ -51,4 +51,4 @@ It's an application that runs in NODE.js , and creates a readme file based on us
   * [GitHub repo link](https://github.com/cristianmitu/Readme-generator)
 
 ## Screenshots
-  * ![Demo](/assets/app_demo.gif)
+  ![Demo](/assets/app_demo.gif)
