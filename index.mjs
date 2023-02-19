@@ -119,7 +119,7 @@ ${response.description}
   * [GitHub repo link](https://github.com/cristianmitu/Readme-generator)
 
 ## Screenshots
-  * [Running app](./assets/app_video.webm)
+  * [Running app](https://drive.google.com/file/d/1P889kjWEKIEM40ULpYvw_Fgl2syui25h/view)
 `;
 
 console.log(response);
