@@ -52,3 +52,4 @@ It's an application that runs in NODE.js , and creates a readme file based on us
 
 ## Screenshots
   ![Demo](/assets/app_demo.gif)
+  For better quality follow the link : [video](https://drive.google.com/file/d/1P889kjWEKIEM40ULpYvw_Fgl2syui25h/view)
